@@ -1,4 +1,5 @@
 # Global Recipe Explorer
+
 # Video Demo: <https://youtu.be/SELSfIirY2M?feature=shared>
 
 Description:
